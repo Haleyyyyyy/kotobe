@@ -1,0 +1,7 @@
+.next
+node_modules
+pnpm-lock.yaml
+public/sw.js
+public/offline.html
+public/manifest.webmanifest
+test-results
